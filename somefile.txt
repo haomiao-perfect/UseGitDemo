@@ -1,5 +1,5 @@
 add distributed
 GPL
 Git tracks changes,and stages
-Creating another's branch is quick.
+Creating an another's branch is quick.
 
