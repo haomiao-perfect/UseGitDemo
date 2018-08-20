@@ -1,3 +1,5 @@
 add distributed
 GPL
 Git tracks changes,and stages
+Creating a new branch is quick.
+
