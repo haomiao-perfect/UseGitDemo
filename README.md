@@ -1,2 +1,2 @@
 # UseGitDemo
-Git userful demo for learning
+Git userful demo for learning. Others no useful.
