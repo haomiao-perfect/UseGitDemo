@@ -1,3 +1,2 @@
 import io
-print("some printinfo.")
-
+print("some printinfo, then exit.")
