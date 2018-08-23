@@ -1,5 +1,6 @@
 add distributed
 GPL
+LGPL
 Git tracks changes and stages
 Creating an another's branch is quick.
 Add some words.
